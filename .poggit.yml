@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LuciaDX/VoiceCraftPM
+build-by-default: true
+branches:
+- main
+projects:
+  VoiceCraftPM:
+    path: ""
+...
