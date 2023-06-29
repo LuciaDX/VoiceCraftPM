@@ -1,0 +1,6 @@
+Ip: "localhost"
+Port: "9050"
+LoginKey: ""
+Settings:
+  ProximityDistance: 30
+  ProximityToggle: true

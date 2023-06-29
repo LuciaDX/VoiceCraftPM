@@ -1,0 +1,15 @@
+name: VoiceCraft
+main: voicecraft\VoiceCraftPlugin
+api: 5.0.0
+description: VoiceCraft plugin for PMMP
+version: 1.0.0
+authors:
+  - LuciaDX
+  - SineVector241
+
+
+permissions:
+  voicecraft.bind:
+    default: true
+  voicecraft.settings:
+    default: op
