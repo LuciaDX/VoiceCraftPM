@@ -1,5 +1,5 @@
 name: VoiceCraft
-main: voicecraft\VoiceCraftPlugin
+main: luciadx\voicecraft\VoiceCraftPlugin
 api: 5.0.0
 description: VoiceCraft plugin for PMMP
 version: 1.0.0
