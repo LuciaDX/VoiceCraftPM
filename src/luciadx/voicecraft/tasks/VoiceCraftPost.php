@@ -1,10 +1,10 @@
 <?php
 
-namespace voicecraft\tasks;
+namespace luciadx\voicecraft\tasks;
 
 use pocketmine\scheduler\AsyncTask;
 use pocketmine\utils\Internet;
-use voicecraft\packets\VoiceCraftPacket;
+use luciadx\voicecraft\packets\VoiceCraftPacket;
 
 class VoiceCraftPost extends AsyncTask{
 

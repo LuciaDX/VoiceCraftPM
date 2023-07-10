@@ -1,6 +1,6 @@
 <?php
 
-namespace voicecraft;
+namespace luciadx\voicecraft;
 
 use pocketmine\command\CommandSender;
 use pocketmine\network\mcpe\protocol\types\DimensionNameIds;
@@ -8,11 +8,11 @@ use pocketmine\player\Player;
 use pmmp\thread\ThreadSafeArray;
 use pocketmine\Server;
 use pocketmine\utils\InternetRequestResult;
-use voicecraft\packets\BindingPacket;
-use voicecraft\packets\LoginPacket;
-use voicecraft\packets\UpdatePlayersPacket;
-use voicecraft\packets\UpdateSettingsPacket;
-use voicecraft\tasks\VoiceCraftPost;
+use luciadx\voicecraft\packets\BindingPacket;
+use luciadx\voicecraft\packets\LoginPacket;
+use luciadx\voicecraft\packets\UpdatePlayersPacket;
+use luciadx\voicecraft\packets\UpdateSettingsPacket;
+use luciadx\voicecraft\tasks\VoiceCraftPost;
 
 class VoiceCraft{
 

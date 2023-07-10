@@ -1,8 +1,8 @@
 <?php
 
-namespace voicecraft;
+namespace luciadx\voicecraft;
 
-use voicecraft\packets\VoiceCraftPacket;
+use luciadx\voicecraft\packets\VoiceCraftPacket;
 
 class ServerSettings extends VoiceCraftPacket {
 

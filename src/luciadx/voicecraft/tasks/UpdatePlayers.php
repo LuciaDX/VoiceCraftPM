@@ -1,9 +1,9 @@
 <?php
 
-namespace voicecraft\tasks;
+namespace luciadx\voicecraft\tasks;
 
 use pocketmine\scheduler\Task;
-use voicecraft\VoiceCraft;
+use luciadx\voicecraft\VoiceCraft;
 
 class UpdatePlayers extends Task {
 

@@ -3,9 +3,9 @@
 namespace voicecraft;
 
 use pocketmine\plugin\PluginBase;
-use voicecraft\commands\Bind;
-use voicecraft\commands\Settings;
-use voicecraft\tasks\UpdatePlayers;
+use luciadx\voicecraft\commands\Bind;
+use luciadx\voicecraft\commands\Settings;
+use luciadx\voicecraft\tasks\UpdatePlayers;
 
 class VoiceCraftPlugin extends PluginBase{
 

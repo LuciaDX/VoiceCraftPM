@@ -1,14 +1,14 @@
 <?php
 
-namespace voicecraft\commands;
+namespace luciadx\voicecraft\commands;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 use pocketmine\command\utils\InvalidCommandSyntaxException;
 use pocketmine\plugin\PluginOwned;
-use voicecraft\VoiceCraft;
-use voicecraft\VoiceCraftPlugin;
+use luciadx\voicecraft\VoiceCraft;
+use luciadx\voicecraft\VoiceCraftPlugin;
 
 class Bind extends Command implements PluginOwned {
 

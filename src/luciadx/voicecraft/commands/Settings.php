@@ -1,14 +1,14 @@
 <?php
 
-namespace voicecraft\commands;
+namespace luciadx\voicecraft\commands;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\command\utils\InvalidCommandSyntaxException;
 use pocketmine\plugin\PluginOwned;
-use voicecraft\ServerSettings;
-use voicecraft\VoiceCraft;
-use voicecraft\VoiceCraftPlugin;
+use luciadx\voicecraft\ServerSettings;
+use luciadx\voicecraft\VoiceCraft;
+use luciadx\voicecraft\VoiceCraftPlugin;
 
 class Settings extends Command implements PluginOwned {
 

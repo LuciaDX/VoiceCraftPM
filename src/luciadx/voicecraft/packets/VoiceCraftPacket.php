@@ -1,6 +1,6 @@
 <?php
 
-namespace voicecraft\packets;
+namespace luciadx\voicecraft\packets;
 
 class VoiceCraftPacket implements \JsonSerializable {
 

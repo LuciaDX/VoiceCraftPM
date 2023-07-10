@@ -1,6 +1,6 @@
 <?php
 
-namespace voicecraft;
+namespace luciadx\voicecraft;
 
 use pmmp\thread\ThreadSafeArray;
 use pocketmine\thread\Thread;
