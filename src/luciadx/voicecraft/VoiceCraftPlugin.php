@@ -1,6 +1,6 @@
 <?php
 
-namespace voicecraft;
+namespace luciadx\voicecraft;
 
 use pocketmine\plugin\PluginBase;
 use luciadx\voicecraft\commands\Bind;
